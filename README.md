@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deepak
-- 👀 I’m interested in automating the test cases of any service/code/app for faster and quality products.
+- 👀 I’m interested in automating the test cases of any service/code/app for faster deployment of products with quality.
 - 🌱 I’m currently learning GoLang,Kubernetes and Devtron Product
 - 💞️ I’m looking to collaborate on Devtron
 
